@@ -4,7 +4,7 @@ Hi, I’m @Kazuma-chan, I'm a ~~filthy weeb~~ currently attending an IT course o
 * Batch/Powershell;
 * Javascript;
 * Python;
-* Java (a bit);
+* Java;
 
 ### Goals:
 * [ ] Finish at least one of my projects;
